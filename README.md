@@ -22,4 +22,4 @@ Rename sample_config.py to bot_config.py and fill in the values
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/iboughtthe/frwd)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/iboughtthe/frwd/)

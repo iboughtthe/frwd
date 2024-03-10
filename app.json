@@ -2,7 +2,7 @@
   "name": "Your App Name",
   "description": "Description of your app",
   "repository": "URL to your repository",
-  "logo": "https://example.com/path/to/logo.png",
+  "logo": "start.jpg",
   "env": {
     "APP_ID": {
       "description": "Your APP ID",

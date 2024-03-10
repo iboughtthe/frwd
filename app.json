@@ -1,7 +1,7 @@
 {
-  "name": "Your App Name",
-  "description": "Description of your app",
-  "repository": "URL to your repository",
+  "name": "FRWD",
+  "description": "ADV FRWD BOT MADE BY TEAM SPY",
+  "repository": "https://github.com/iboughtthe/frwd",
   "logo": "start.jpg",
   "env": {
     "APP_ID": {

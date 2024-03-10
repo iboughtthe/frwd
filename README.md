@@ -19,3 +19,7 @@ MULTI_USER_MODE: Whether to run the bot in multi-user mode
 OR 
 
 Rename sample_config.py to bot_config.py and fill in the values
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/iboughtthe/frwd)

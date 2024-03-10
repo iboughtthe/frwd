@@ -1,0 +1,43 @@
+{
+  "name": "Your App Name",
+  "description": "Description of your app",
+  "repository": "URL to your repository",
+  "logo": "https://example.com/path/to/logo.png",
+  "env": {
+    "APP_ID": {
+      "description": "Your APP ID",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Your API HASH",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Your BOT TOKEN",
+      "required": true
+    },
+    "BOT_WORKERS": {
+      "description": "Number of BOT WORKERS",
+      "required": false,
+      "value": "40"
+    },
+    "SUDO_USERS": {
+      "description": "Your SUDO USERS",
+      "required": false
+    },
+    "DB_URI": {
+      "description": "Your DB URI",
+      "required": true
+    },
+    "SESSION_NAME": {
+      "description": "Your SESSION NAME",
+      "required": false,
+      "value": "test"
+    },
+    "MULTI_USER_MODE": {
+      "description": "Your MULTI USER MODE",
+      "required": false,
+      "value": "false"
+    }
+  }
+}
